@@ -13,7 +13,8 @@ header:
     options:
       loop: true
       autoStart: false
-    height: 190
+    paddingX: 50
+    height: 200
     paddingX: 50
     align: center
     fontSize: 44
@@ -30,7 +31,7 @@ header:
       - ソフトウェアとか電子工作とか
     titleColor: 
     titleShadow: true
-    titleFontSize: 32
+    titleFontSize: 28
     subtitleColor: 
     subtitleCursive: true
     subtitleFontSize: 18
