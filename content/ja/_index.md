@@ -20,17 +20,17 @@ header:
     fontColor: yellow
     
   - type: text
-    height: 200
-    paddingX: 50
+    height: 100
+    paddingX: 0
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - 広島エンジニアの試行錯誤
     subtitle:
-      - The world’s fastest framework for building websites
+      - ソフトウェアとか電子工作とか
     titleColor: 
     titleShadow: true
-    titleFontSize: 44
+    titleFontSize: 32
     subtitleColor: 
     subtitleCursive: true
     subtitleFontSize: 18
