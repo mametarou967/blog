@@ -1,5 +1,5 @@
 baseurl = "http://mametarou963.com/"
-languageCode = "en-us"
+languageCode = "ja"
 title = "My New Hugo Site"
 theme = "zzo"
 
