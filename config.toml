@@ -1,5 +1,5 @@
-baseURL = "http://mametaru963.com/"
+baseURL = "http://mametarou963.com/"
 languageCode = "ja"
 title = "My New Hugo Site"
 theme = "zzo"
-
+canonifyurls = true

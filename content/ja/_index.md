@@ -20,6 +20,7 @@ header:
     fontColor: yellow
     
   - type: text
+<<<<<<< HEAD
     height: 200
     paddingX: 50
     paddingY: 0
@@ -28,6 +29,16 @@ header:
       - HUGO
     subtitle:
       - The world’s fastest framework for building websites
+=======
+    height: 0
+    paddingX: 0
+    paddingY: 0
+    align: center
+    # title:
+    #   - 試行錯誤
+    # subtitle:
+    #   - 技術力不足のエンジニアが試行錯誤してとにかく何か作ろうとします
+>>>>>>> 681a9ae238b2be30d1f2f87f1626fc17b9edb0c2
     titleColor: 
     titleShadow: true
     titleFontSize: 44
