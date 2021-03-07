@@ -1,4 +1,4 @@
-logoText = "広島錯誤"
+logoText = "試行錯誤"
 logoType = "short" # long, short
 description = "広島のしがないエンジニアが試行錯誤する様子をかきます"
 custom_css = []
