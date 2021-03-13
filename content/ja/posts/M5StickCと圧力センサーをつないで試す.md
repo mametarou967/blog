@@ -6,6 +6,7 @@ tags:
 - M5StickC
 - 調査
 image: images/postIcon/chousa1.png
+description: 圧力センサーFSR-406の使い方を学びます
 ---
 
 ## 背景
