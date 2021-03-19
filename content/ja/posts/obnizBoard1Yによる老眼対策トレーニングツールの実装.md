@@ -1,7 +1,7 @@
 ---
 title: "<書きかけ> ObnizBoard1Yによる老眼対策トレーニングツールの実装"
 date: 2021-03-18T15:20:08+09:00
-draft: true
+draft: false
 ---
 
 
