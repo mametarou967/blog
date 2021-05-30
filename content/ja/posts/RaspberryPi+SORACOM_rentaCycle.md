@@ -61,6 +61,10 @@ description: レンタサイクルを緊急時に返却しやすい
 
 ## 結線図
 
+結線図は以下のようになります。
+
+{{< figure src="/images/post/RaspberryPiとSORACOMを使ったレンタサイクルの緊急返却をサポートするプロダクト/結線図.jpg" >}}
+
 実際に部品を結線した様子は以下のようになります。
 
 {{< figure src="/images/post/RaspberryPiとSORACOMを使ったレンタサイクルの緊急返却をサポートするプロダクト/結線図1.JPG" >}}
