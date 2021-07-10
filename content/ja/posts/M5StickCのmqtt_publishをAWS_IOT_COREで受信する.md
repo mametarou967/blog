@@ -13,6 +13,10 @@ tags:
 image: images/postIcon/chousa1.png
 ---
 
+## 背景
+
+とりあえず、M5StickCからmqtt publishしてAWS IoT Coreのmqttでキャッチできるまでを最短で実施できるようなメモを残します。この記事に関しては完全に自分用のためあえて、画像は残しません。
+
 ## AWS側の設定
 
 ### エンドポイントの確認する
