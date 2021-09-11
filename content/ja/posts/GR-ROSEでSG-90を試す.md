@@ -1,5 +1,5 @@
 ---
-title: "<調査> MicroXRCE-DDSのAgentをRaspberry Piで構築してTopicを送受信する"
+title: "<調査> GR-ROSEでSG-90を試す"
 date: 2021-09-11T23:00:00+09:00
 draft: false
 tags:
@@ -23,6 +23,10 @@ image: images/postIcon/chousa1.png
 ## つないだ様子
 
 {{< figure src="/images/post/GR-ROSEでSG-90を試す/hardware.JPG" >}}
+
+## 動作の様子
+
+{{< youtube o7L58XRCO3Y >}}
 
 ## ソース
 
