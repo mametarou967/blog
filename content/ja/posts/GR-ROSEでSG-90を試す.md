@@ -8,6 +8,9 @@ tags:
 image: images/postIcon/chousa1.png
 ---
 
+## 背景
+
+GR-ROSEでSG-90を動かす必要があったので試します。
 
 ## ハードウェア構成
 
