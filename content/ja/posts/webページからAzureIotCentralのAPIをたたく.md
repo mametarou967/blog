@@ -1,6 +1,6 @@
 ---
 title: "webページからAzureIotCentralのAPIをたたく"
-date: 2021-10-06T08:30:48+09:00
+date: 2021-10-07T08:30:48+09:00
 draft: false
 tags:
 - 調査
