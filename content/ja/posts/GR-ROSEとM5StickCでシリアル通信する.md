@@ -29,7 +29,9 @@ GR-ROSEは汎用的に使えるシリアル通信が7つ用意されており(�
 
 ## コード
 
-```GR-ROSE
+* GR-ROSEのコード
+
+```C
 #include <Arduino.h>
 
 void setup() {
@@ -42,7 +44,9 @@ void loop() {
 }
 ```
 
-```M5StickC
+* M5StickCのコード
+
+```C
 #include <M5StickC.h>
 
 void setup(){

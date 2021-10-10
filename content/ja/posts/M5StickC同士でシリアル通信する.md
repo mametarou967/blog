@@ -19,7 +19,9 @@ M5StickCのIOをそれぞれ以下のように接続します
 
 ## コード
 
-```M5StickC
+* M5StickCのコード
+
+```
 #include <M5StickC.h>
 
 void setup(){
