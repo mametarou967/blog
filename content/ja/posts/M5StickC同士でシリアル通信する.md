@@ -1,7 +1,11 @@
 ---
 title: "M5StickC同士でシリアル通信する"
 date: 2021-10-10T20:19:53+09:00
-draft: true
+draft: false
+tags:
+- M5StickC
+- 調査
+image: images/postIcon/chousa1.png
 ---
 
 ## 結線図
