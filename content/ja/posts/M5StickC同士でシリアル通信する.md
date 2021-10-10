@@ -19,7 +19,7 @@ M5StickCのIOをそれぞれ以下のように接続します
 
 ## コード
 
-```arduino
+```M5StickC
 #include <M5StickC.h>
 
 void setup(){

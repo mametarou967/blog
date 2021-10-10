@@ -1,7 +1,8 @@
 ---
 title: "GR-ROSEとM5StickCでシリアル通信する"
-date: 2021-10-10T20:55:01+09:00
+date: 2021-10-10T21:32:53+09:00
 draft: false
+tags:
 - M5StickC
 - GR-ROSE
 - 調査
