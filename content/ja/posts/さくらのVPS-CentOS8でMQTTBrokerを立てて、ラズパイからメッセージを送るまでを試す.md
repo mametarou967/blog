@@ -66,7 +66,7 @@ Password:
 
 ## mosquittoでのMQTTのサブクスライブ
 
-以下のコマンドで待ち構えておく
+以下のコマンドで待ち構えておきます。
 
 ```
 [user@os-x]mosquitto_sub -h localhost -t test
@@ -74,12 +74,16 @@ Password:
 
 ## raspberry piでのmosquittoインストール
 
+送信用にラズパイ等を用意し、mosquitto本体とclientをインストールします。
+
 ```
 [user@raspi]sudo apt install mosquitto
 [user@raspi]sudo apt install mosquitto-clients
 ```
 
 ## raspberry piでのMQTTのパブリッシュ
+
+同一topicでパブリッシュします。
 
 ```
 [user@raspi]mosquitto_pub -h iot-tech-lab.com -t test -m "hoge"
