@@ -1,6 +1,6 @@
 ---
-title: "CAT M_UNIT+SORACOM_SIMでMQTTメッセージを送信してみる"
-date: 2022-09-23T23:05:56+09:00
+title: "CAT M_UNIT+POVO_SIMでMQTTメッセージを送信してみる"
+date: 2022-08-23T23:05:56+09:00
 draft: false
 tags:
 - 調査
